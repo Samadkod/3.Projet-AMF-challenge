@@ -9,8 +9,6 @@ Ce projet vise à **prédire les comportements des High-Frequency Trades (HFTs)*
 
 ## Compétences acquises :
 - **Machine learning** : Utilisation d'algorithmes avancés pour prédire les comportements des HFTs.
-- **Analyse de séries temporelles** : Étude des patterns temporels pour comprendre et modéliser les données de trading.
-- **Prédiction en finance** : Application des modèles de prédiction pour des scénarios réels en trading haute fréquence.
 
 ## Outils utilisés :
 - **R** et **Python** pour le traitement des données, la modélisation et la prédiction.
