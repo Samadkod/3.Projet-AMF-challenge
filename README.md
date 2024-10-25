@@ -20,6 +20,6 @@ Ce projet vise à **prédire les comportements des High-Frequency Trades (HFTs)*
 > Vous pouvez consulter les ressources de ce projet via les liens suivants :  
 > - [Projet FORECAST M2 IE](https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)  
 > - [Données AMF](https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)  
-> - [Informations sur la base de données](https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf)
+> - [Informations sur la base de données](https://github.com/Samadkod/Projet-AMF-challenge/blob/main/Info_base_donn%C3%A9es_amf_data.pdf)
 
 ---
